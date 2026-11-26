@@ -46,7 +46,7 @@
 #### Key Columns in the Final Summary Table:
 ##### VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost
 
-#### Executive Summary:
+### Executive Summary:
 
 ##### The analysis focuses on vendor contribution, sales performance, profitability, purchasing efficiency, and inventory management.
 
@@ -57,5 +57,8 @@
 ##### 3) The analysis identifies brands with relatively low sales but high profit margins that may be suitable for promotional activities.
 ##### 4) Some vendors demonstrate low stock turnover, indicating potentially slow-moving inventory.
 ##### 5) Unsold inventory represents capital tied up in products that have been purchased but not yet sold.
+
+### Insights Deep Dive:
+##### 1. Which vendors contribute the most to total purchases?
 
 
