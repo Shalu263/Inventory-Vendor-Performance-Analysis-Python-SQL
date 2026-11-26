@@ -28,7 +28,7 @@
 
 ### Data Structure Overview:
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/67db8b93796b1e1dce1d9ba08a9dbd9a5af326b9/Source%20Tables%20Data%20Reference.png" width="450" alt="Source Tables Data Reference">
 </p>
 
