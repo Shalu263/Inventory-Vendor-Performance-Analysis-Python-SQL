@@ -67,6 +67,26 @@
 
 ##### 2. Which brands have low sales but high profit margins, indicating potential opportunities for promotional activities?
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/d977bf00450e93033d33424a5a1f092cd4ebe3f6/Screenshot%202026-11-26%20184713.png" width="450" alt="Low Sales vs High Profit Margin Analysis">
+</p>
+
+### Recommendations
+##### 1. Optimize Procurement and Vendor Management
+##### - Strengthen relationships with high-contributing vendors.
+##### - Negotiate better prices through bulk purchasing.
+##### - Diversify suppliers to reduce vendor dependency.
+
+##### 2. Improve Inventory and Working Capital Management
+##### - Monitor slow-moving inventory and vendors with low stock turnover.
+##### - Reduce excess inventory to minimize capital blockage.
+##### - Use historical sales trends to plan future purchases.
+
+##### 3. Focus on Profitability and Sales Growth
+##### - Promote low-sales, high-margin brands through targeted campaigns.
+##### - Monitor vendor-wise sales and profit margins regularly.
+##### - Use data-driven insights to improve pricing and business decisions.
+
 
 
 
