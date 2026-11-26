@@ -65,5 +65,7 @@
   <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/5f85ba2dd0a2c278f1ee356ad165941420caa1fe/Screenshot%202026-11-26%20183427.png" width="450" alt="Insights Deep Dive">
 </p>
 
+##### 2. Which brands have low sales but high profit margins, indicating potential opportunities for promotional activities?
+
 
 
