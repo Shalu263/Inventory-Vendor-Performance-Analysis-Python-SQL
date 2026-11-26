@@ -71,7 +71,9 @@
   <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/d977bf00450e93033d33424a5a1f092cd4ebe3f6/Screenshot%202026-11-26%20184713.png" width="450" alt="Low Sales vs High Profit Margin Analysis">
 </p>
 
-### Recommendations
+##### For more details of insights CLICK HERE
+
+### Recommendations:
 ##### 1. Optimize Procurement and Vendor Management
 ##### - Strengthen relationships with high-contributing vendors.
 ##### - Negotiate better prices through bulk purchasing.
