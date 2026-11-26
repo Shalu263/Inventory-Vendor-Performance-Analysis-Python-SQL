@@ -32,5 +32,30 @@
   <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/67db8b93796b1e1dce1d9ba08a9dbd9a5af326b9/Source%20Tables%20Data%20Reference.png" width="450" alt="Source Tables Data Reference">
 </p>
 
+### Data Processing:
+##### The source tables are combined using SQL Common Table Expressions (CTEs) and JOIN operations.
+
+##### Three summary sections are created:
+
+##### Purchase Summary: Aggregates purchase quantity and purchase dollars by vendor and brand.
+##### Sales Summary: Aggregates sales quantity, sales dollars, sales price, and excise tax by vendor and brand.
+##### Freight Summary: Calculates total freight cost for each vendor.
+
+##### These summaries are combined with product pricing information to create the final vendor_sales_summary table.
+
+#### Key Columns in the Final Summary Table:
+##### VendorNumber, VendorName, Brand, Description, PurchasePrice, ActualPrice, Volume, TotalPurchaseQuantity, TotalPurchaseDollars, TotalSalesQuantity, TotalSalesDollars, TotalSalesPrice, TotalExciseTax, FreightCost
+
+#### Executive Summary:
+
+##### The analysis focuses on vendor contribution, sales performance, profitability, purchasing efficiency, and inventory management.
+
+##### The major findings include:
+
+##### 1) The top 10 vendors contribute approximately 65.69% of total purchase value, indicating a significant dependence on a relatively small group of vendors.
+##### 2) Bulk purchasing is associated with lower unit purchase prices. Large orders have an average unit purchase price of approximately $10.78 in the notebook analysis.
+##### 3) The analysis identifies brands with relatively low sales but high profit margins that may be suitable for promotional activities.
+##### 4) Some vendors demonstrate low stock turnover, indicating potentially slow-moving inventory.
+##### 5) Unsold inventory represents capital tied up in products that have been purchased but not yet sold.
 
 
