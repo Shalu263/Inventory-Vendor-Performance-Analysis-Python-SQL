@@ -71,7 +71,7 @@
   <img src="https://raw.githubusercontent.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/d977bf00450e93033d33424a5a1f092cd4ebe3f6/Screenshot%202026-11-26%20184713.png" width="450" alt="Low Sales vs High Profit Margin Analysis">
 </p>
 
-##### For more details of insights CLICK HERE
+##### **For More Details:** [View Complete Jupyter Notebook](https://github.com/Shalu263/Inventory-Vendor-Performance-Analysis-Python-SQL/blob/65f37a37e268425753bb907d4de3a3057e57cff8/Vendor%20performance%20analysis.ipynb)
 
 ### Recommendations:
 ##### 1. Optimize Procurement and Vendor Management
